@@ -1,0 +1,51 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão liquido",
+      "categoria": "1"
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em pó",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Bolacha",
+      "categoria": "1"
+    },
+    {
+      "produto": "Pão",
+      "categoria": "2",
+      "id": 5
+    },
+    {
+      "produto": "Banana",
+      "categoria": "2",
+      "id": 6
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Cosméticos"
+    },
+    {
+      "id": 4,
+      "categoria": "teste 2"
+    },
+    {
+      "id": 5,
+      "categoria": "outro"
+    }
+  ]
+}
